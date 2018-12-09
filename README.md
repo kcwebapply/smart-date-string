@@ -30,7 +30,7 @@ SmartDateString.generate("yyyy/MM/dd hh:mm:ss",Calender.getInstance());
 ```
 
 ### date calculation
-```
+```Java
 // you can get previous day
 SmartDateString.generatePreviousDay("yyyy/MM/dd hh:mm:ss",100)
 // 2018/08/31 07:42:40
