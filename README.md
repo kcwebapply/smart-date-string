@@ -23,3 +23,8 @@ you can generate date string easily like below.
     <version>1.0</version>
 </dependency>
 ```
+
+**Gradle**
+```gradle
+compile 'jp.spring-boot-reference:smart-date-string:1.0'
+```
